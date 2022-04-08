@@ -1,0 +1,9 @@
+[submodule "sp1-backend"]
+	path = sp1-backend
+	url = https://github.com/g3un/sp1-backend.git
+[submodule "sp1-frontend"]
+	path = sp1-frontend
+	url = https://github.com/hoseCloud/sp1-frontend.git
+[submodule "sp1-database"]
+	path = sp1-database
+	url = https://github.com/N0N4M3D-b/sp1-database.git
